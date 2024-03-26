@@ -1,4 +1,4 @@
-# Hello there! A Deep Learning project is available in here 🩵
+# Hello! A Deep Learning project is available in here 🩵
 ---
 **Orange SPAM detector** 🔶
 - The goal of this project is to **reduce AT\&T users exposure to SPAM** *messages on their mobile phone*. 📲
@@ -8,6 +8,7 @@
 - Here we are in front of a **Binary Classification problem** : find if the SMS is spam or ham (*2 possible label classes*)
 - We will take into account all of those parameters to solve this project 🔜
 
+👇🏽 *Down here you have the full description from Jedha, hope you enjoy them as did making them* 👇🏽
 
 ---
 ---
